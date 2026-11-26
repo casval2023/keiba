@@ -1,0 +1,8 @@
+{
+  "provider_name": "licensed_export_folder",
+  "provider_type": "local_export",
+  "authorized": false,
+  "directory": "input/provider_exports",
+  "filename_template": "{date}_{course}_{race2}R.csv",
+  "format": "csv"
+}

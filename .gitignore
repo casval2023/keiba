@@ -1,0 +1,17 @@
+# Historical databases must not be published
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-wal
+*.sqlite-shm
+*.csv
+!racecard_provider.example.json
+output/
+input/
+__pycache__/
+*.pyc
+.venv/
+.env
+.streamlit/secrets.toml
+*.zip
+*.log
